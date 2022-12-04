@@ -1,4 +1,4 @@
-package Patterns;
+package PatternsAlphabets;
 
 import  java.util.Scanner;
 public class AlphabetReverseTriangle {
@@ -17,3 +17,12 @@ public class AlphabetReverseTriangle {
         }
     }
 }
+
+/*
+output
+ABCDE
+ABCD
+ABC
+AB
+A
+*/
