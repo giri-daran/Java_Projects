@@ -1,4 +1,4 @@
-package Patterns;
+package PatternsAlphabets;
 import java.util.Scanner;
 public class AlphabetCone {
     public static void main(String[] args) {
@@ -16,3 +16,13 @@ public class AlphabetCone {
         }
     }
 }
+
+/*
+output
+A
+A B
+A B C
+A B C D
+A B C D E
+A B C D E F
+*/
