@@ -7,19 +7,13 @@ public class CountNumberIteration {
         m(g);
     }
     static void m(int n){
-        int f=0;
+        int finditeration=0;
         while(n!=0){
-            int v=n%10;
-            f++;
+            int sum=n%10;
+            finditeration++;
             n=n/10;
 
         }
-//        if(f>=3){
-//            System.out.println(f+" the value is above 3");
-//        }
-//        else{
-//            System.out.println(f+" the value is below 3");
-//        }
-        System.out.println("The number Length is "+f);
+        System.out.println("The number length is "+finditeration);
     }
 }
