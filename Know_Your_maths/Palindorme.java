@@ -5,22 +5,22 @@ import java.util.Scanner;
 public class Palindorme {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int r=sc.nextInt();
-        tt(r);
+        int a=sc.nextInt();
+        palindrome(a);
     }
-    public static void tt(int y){
-        int dup=y;
+    public static void palindrome(int y){
+        int duplicate=y;
         int sum=0;
         while (y !=0){
-            int r=y%10;
-            sum=sum*10+r;
+            int rem=y%10;
+            sum=sum*10+rem;
             y=y/10;
         }
-        if(sum==dup){
-            System.out.println("it is a palindrome");
+        if(sum==duplicate){
+            System.out.println(sum+" is a palindrome");
         }
         else{
-            System.out.println("it is not a palindorme");
+            System.out.println(sum+" is not a palindorme");
         }
     }
 }
