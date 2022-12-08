@@ -9,12 +9,12 @@ public class ReverseNumber {
     }
     static void m(int n){
         //int sum=0;
-        int r=0;
+        int rem=0;
         while(n!=0){
             int sum=n%10;
-            r=r*10+sum;
+            rem=rem*10+sum;
             n=n/10;
         }
-        System.out.println("The reversed Number is "+r);
+        System.out.println("The reversed Number is "+rem);
     }
 }
