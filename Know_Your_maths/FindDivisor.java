@@ -4,9 +4,9 @@ public class FindDivisor {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int y=sc.nextInt();
-        h(y);
+        divisor(y);
     }
-    static void h(int n){
+    static void divisor(int n){
         for(int i=1;i<=n;i++){
             if(n%i==0){
                 System.out.println(i);
