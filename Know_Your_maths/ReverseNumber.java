@@ -3,18 +3,18 @@ package Know_Your_maths;
 import java.util.Scanner;
 public class ReverseNumber {
     public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
-        int u= sc.nextInt();
-        m(u);
+         Scanner sc=new Scanner(System.in);
+        int output=sc.nextInt();
+        reverse(output);
     }
-    static void m(int n){
-        //int sum=0;
-        int rem=0;
-        while(n!=0){
-            int sum=n%10;
-            rem=rem*10+sum;
-            n=n/10;
+   static void reverse(int u){
+        //int duplicate=u;
+        int store=0;
+        while (u!=0){
+            int d=u%10;
+            store=(store*10)+d;
+            u=u/10;
         }
-        System.out.println("The reversed Number is "+rem);
-    }
+       System.out.println("the reverse number is "+store);
+   }
 }
