@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class Numbercone {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int v= sc.nextInt();
-        g(v);
+        int output= sc.nextInt();
+        numCone(output);
     }
-    static void g(int n){
+    static void numCone(int n){
         for(int i=1;i<=n;i++){
             for(int j=1;j<=i;j++){
                 System.out.print(j);
