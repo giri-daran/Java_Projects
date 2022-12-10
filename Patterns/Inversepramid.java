@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class Inversepramid {
     public static void main(String[] args) {
     Scanner sc= new Scanner(System.in);
-    int h= sc.nextInt();
-    r(h);
+    int output= sc.nextInt();
+    inverPrmid(output);
     }
-    static  void r(int n){
+    static  void inverPrmid(int n){
         for(int i=1;i<=n;i++){
             for(int j=1;j<=i-1;j++){
                 System.out.print(" ");
