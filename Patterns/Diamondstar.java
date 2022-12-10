@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Diamondstar {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int v= sc.nextInt();
-        m(v);
+        int output= sc.nextInt();
+        diamond(output);
     }
-    static  void m(int n){
+    static  void diamond(int n){
         for(int i=1;i<=n;i++){
             for(int j=1;j<=(n-i);j++){
                 System.out.print(" ");
