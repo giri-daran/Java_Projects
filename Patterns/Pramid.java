@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Pramid {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int u=sc.nextInt();
-        m(u);
+        int output=sc.nextInt();
+        pramid(output);
     }
-    static void m(int n){
+    static void pramid(int n){
         for(int i=1;i<=n;i++){
             for(int j=1;j<=(n-i);j++){
                 System.out.print(" ");
