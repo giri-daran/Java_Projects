@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class Gcd_Lcd {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int ou=sc.nextInt();
-        int ou2=sc.nextInt();
-        gcdlcd(ou,ou2);
+        int output=sc.nextInt();
+        int output2=sc.nextInt();
+        gcdlcd(output,output2);
     }
     public static void gcdlcd(int a , int b){
        int mini =0;
