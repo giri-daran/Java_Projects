@@ -16,7 +16,7 @@ public class Gcd_Lcd {
             mini =a;
         }
         for(int i=1;i<=mini; i++){
-            //System.out.println(i);
+            System.out.println(i);
             
         }
     }
