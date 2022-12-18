@@ -3,15 +3,15 @@ import java.util.Scanner;
 public class NumberPrintWithNoLoopUsingRecursive {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int o=sc.nextInt();
-        p(o);
+        int output=sc.nextInt();
+        printwithoutLoops(output);
     }
-    static void p(int m){
+    static void printwithoutLoops(int m){
         if(m==1){
             System.out.print(m+" ");
             return;
         }
-        p(m-1);
+        printwithoutLoops(m-1);
         System.out.print(m+" ");
     }
 }
