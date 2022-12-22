@@ -28,7 +28,7 @@ public class AlphabetLeftSidedCone {
 
 
 /*
-output
+output:-
 A
 A B
 A B C
@@ -40,4 +40,5 @@ A B C D
 A B C
 A B
 A
+
 */
