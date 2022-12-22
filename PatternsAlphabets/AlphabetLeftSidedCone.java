@@ -4,10 +4,10 @@ import java.util.Scanner;
 public class AlphabetLeftSidedCone {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int u=sc.nextInt();
-        m(u);
+        int output=sc.nextInt();
+        AlphabetleftCone(output);
     }
-    static void m(int n){
+    static void AlphabetleftCone(int n){
         int apla=65;
         for(int i=0;i<=n;i++){
             for(int j=0;j<=i;j++){
