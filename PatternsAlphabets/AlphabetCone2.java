@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class AlphabetCone2 {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int b= sc.nextInt();
-        m(b);
+        int output= sc.nextInt();
+        Alphabetconetwo(output);
     }
-    static void m(int n){
+    static void Alphabetconetwo(int n){
         int aplha=65;
         for(int i=0;i<=n;i++){
             for(int j=0;j<=i;j++){
