@@ -19,6 +19,7 @@ public class AlphabetCone2 {
     }
 }
 
+
 //output
 //        A
 //        B B
