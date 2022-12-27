@@ -5,9 +5,9 @@ public class DivideTheNumberWithItsOwnDigits {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int output=sc.nextInt();
-        N(output);
+        DivideTheNumberWithItsOwnDigits(output);
     }
-    static void N(int M){
+    static void DivideTheNumberWithItsOwnDigits(int M){
         int c=M;
         int w=0;
         while(c>0){
