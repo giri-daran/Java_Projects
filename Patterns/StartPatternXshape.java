@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class StartPatternXshape {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int g=sc.nextInt();
-        star(g);
+        int output=sc.nextInt();
+        star(output);
     }
     static void star(int n){
         for(int i=1;i<=n;i++){
@@ -50,5 +50,6 @@ output
  ***    ***
  **      **
  *        *
+
 
  */
