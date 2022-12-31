@@ -5,10 +5,9 @@ public class ReverseNumber {
     public static void main(String[] args) {
          Scanner sc=new Scanner(System.in);
         int output=sc.nextInt();
-        reverse(output);
+        reverseNumber(output);
     }
-   static void reverse(int u){
-        //int duplicate=u;
+   static void reverseNumber(int u){
         int store=0;
         while (u!=0){
             int d=u%10;
