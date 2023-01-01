@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class AlphabetPatternAtoZ {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int r=sc.nextInt();
-        m(r);
+        int output=sc.nextInt();
+        AlphabetPatternAtoZ(output);
     }
-    static void m(int n){
+    static void AlphabetPatternAtoZ(int n){
         int aplha=65;
         for(int i=0;i<=n;i++){
             for(int j=0;j<=i;j++){
