@@ -23,3 +23,20 @@ public class AlphabetDiamondPattern {
         }
     }
 }
+
+/*
+input
+
+5
+
+output:-
+
+ABCDEFABCDE
+ABCDE ABCDE
+ABCD   ABCD
+ABC     ABC
+AB       AB
+A         A
+
+
+*/
