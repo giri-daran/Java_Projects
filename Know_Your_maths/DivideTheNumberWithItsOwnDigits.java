@@ -20,3 +20,11 @@ public class DivideTheNumberWithItsOwnDigits {
         }
     }
 }
+
+/*
+input:-
+151
+
+output:-
+1 1 
+*/
