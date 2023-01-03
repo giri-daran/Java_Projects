@@ -17,3 +17,12 @@ public class CountNumberIteration {
        System.out.println("The count of iteration in number "+duplicate+" is "+Count);
    }
 }
+
+
+/*
+input:-
+1245
+
+output:-
+The count of iteration in number 1245 is 4
+*/
