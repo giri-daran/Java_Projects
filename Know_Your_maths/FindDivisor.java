@@ -14,3 +14,16 @@ public class FindDivisor {
         }
     }
 }
+
+
+/*
+input:-
+254
+
+output:-
+1
+2
+127
+254
+
+*/
