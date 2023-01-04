@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class FahrenheitToCelcius {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        float u=sc.nextFloat();
-        conertfartocel(u);
+        float output=sc.nextFloat();
+        conertfartocel(output);
     }
     static void conertfartocel(float n){
         float s= ((n-32)*5)/9;  //the formula for coverting fahrenheit to celcius
