@@ -13,3 +13,11 @@ public class FahrenheitToCelcius {
         System.out.println("the temperation from fahrenhiet to celcius is "+s);
     }
 }
+
+/*
+input:-
+132
+
+output:-
+55.5556
+*/
