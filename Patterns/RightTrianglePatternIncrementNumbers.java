@@ -20,7 +20,8 @@ public class RightTrianglePatternIncrementNumbers {
 
 
 /*
-* output
+
+output
 
 1
 2 3
