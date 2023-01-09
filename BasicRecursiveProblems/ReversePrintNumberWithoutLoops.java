@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class ReversePrintNumberWithoutLoops {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
-        int k=sc.nextInt();
-        ReverseprintLoop(k);
+        int output=sc.nextInt();
+        ReverseprintLoop(output);
     }
     static void ReverseprintLoop(int M){
         if (M < 1) {
