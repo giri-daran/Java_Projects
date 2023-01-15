@@ -16,7 +16,33 @@ public class Javaoutputformatting {
 
     }
 }
+/*
+input1:-
+kgf
+132
 
+input2:-
+rr
+123
+
+input3:-
+vikram
+400
+
+output:-
+================================
+
+kgf            132 
+
+rr             123 
+
+vikram         400 
+
+================================
+
+*/
+
+//this program takes the input 3 times and print 3 values in this format and the loop breaks
 
 
 
