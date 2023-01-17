@@ -43,6 +43,3 @@ vikram         400
 */
 
 //this program takes the input 3 times and print 3 values in this format and the loop breaks
-
-
-
