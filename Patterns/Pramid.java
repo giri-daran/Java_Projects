@@ -23,3 +23,17 @@ public class Pramid {
         }
     }
 }
+
+/*input:-
+
+5
+
+output:-
+
+    *
+   ***
+  *****
+ *******
+ 
+
+*/
