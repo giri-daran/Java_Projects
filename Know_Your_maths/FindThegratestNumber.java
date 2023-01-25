@@ -1,6 +1,6 @@
 package Know_Your_maths;
 import java.util.Scanner;
-public class GreatestNo {
+public class FindThegratestNumber {
    public static void main(String[] args){
     Scanner sc= new Scanner(System.in);
      System.out.println("The program will take 3 values N, O, P , Lets start from N ");
