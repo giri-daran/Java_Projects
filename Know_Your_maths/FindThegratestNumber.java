@@ -21,7 +21,6 @@ public class FindThegratestNumber {
      }
      else if(p>n && p>o){
       System.out.println("The value of P is the greatest of all 3 numbers");
-
      }
      else{
       System.out.println("All 3 values are either equal or not distict");
