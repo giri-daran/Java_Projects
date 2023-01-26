@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Armstrong_number {
     public static void main(String[] args) {
+        System.out.println("Enter the value to get the Armstrong number ");
         Scanner sc= new Scanner(System.in);
         int output=sc.nextInt();
         armstrong(output);
