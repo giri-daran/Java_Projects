@@ -28,4 +28,20 @@ public class FindThegratestNumber {
    }
 }
 
+/*
+input:-
 
+The program will take 3 values N, O, P , Lets start from N 
+Enter the value of N 
+23
+Enter the value of O 
+34
+Enter the value of P 
+45
+
+output:-
+
+The value of P is the greatest of all 3 numbers
+
+
+*/
