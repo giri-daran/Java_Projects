@@ -10,9 +10,9 @@ public class FindThegratestNumber {
      int O=sc.nextInt();
      System.out.println("Enter the value of P ");
      int P=sc.nextInt();
-     m(N,O,P);
+     greatestnum(N,O,P);
     }
-   static void m(int n,int o, int p){
+   static void greatestnum(int n,int o, int p){
     if(n>o && n>p){
       System.out.println("the value of N is the greatest of all 3 numbers");
     }
