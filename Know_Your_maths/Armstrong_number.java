@@ -28,3 +28,22 @@ public class Armstrong_number {
 }
 
 
+/*
+input:-
+Enter the value to get the Armstrong number 
+370
+
+output:-
+370
+This is a armstrong number
+
+input:-
+Enter the value to get the Armstrong number 
+1643
+
+output:-
+308
+This is not a armstrong number
+
+
+*/
