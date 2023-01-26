@@ -1,9 +1,9 @@
 package Know_Your_maths;
-
 import java.util.Scanner;
 public class ReverseNumber {
     public static void main(String[] args) {
-         Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the number to get its Reversed format ");
+        Scanner sc=new Scanner(System.in);
         int output=sc.nextInt();
         reverseNumber(output);
     }
@@ -14,6 +14,6 @@ public class ReverseNumber {
             store=(store*10)+d;
             u=u/10;
         }
-       System.out.println("the reverse number is "+store);
+       System.out.println("The Reverse format is "+store);
    }
 }
