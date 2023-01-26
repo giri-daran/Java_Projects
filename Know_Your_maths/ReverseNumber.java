@@ -17,3 +17,12 @@ public class ReverseNumber {
        System.out.println("The Reverse format is "+store);
    }
 }
+
+/*
+input:-
+Enter the number to get its Reversed format
+2345
+
+output:-
+The Reverse format is 5432
+*/
