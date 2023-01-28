@@ -20,3 +20,17 @@ public class SquarePattern {
         }
     }
 }
+
+/*
+input:-
+5
+
+output:-
+
+******
+******
+******
+******
+******
+
+*/
