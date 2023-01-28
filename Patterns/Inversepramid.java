@@ -21,3 +21,16 @@ public class Inversepramid {
         }
     }
 }
+
+/*
+input:-
+5
+
+output:-
+*********
+ *******
+  *****
+   ***
+    *
+
+*/
