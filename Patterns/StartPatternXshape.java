@@ -36,10 +36,12 @@ public class StartPatternXshape {
 
 /*
 
-input
+input:-
 5
 
-output
+output:-
+
+
 
  *        *
  **      **
