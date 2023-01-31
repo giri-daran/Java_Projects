@@ -17,3 +17,17 @@ public class Triangleinverse {
         }
     }
 }
+
+/*
+input:-
+5
+
+output:-
+
+*****
+****
+***
+**
+*
+
+*/
