@@ -1,6 +1,5 @@
 package Know_Your_maths;
 import java.util.Scanner;
-
 public class DivideTheNumberWithItsOwnDigits {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
