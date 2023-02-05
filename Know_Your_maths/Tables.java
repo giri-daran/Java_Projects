@@ -18,3 +18,20 @@ public class Tables {
     }
 }
 
+/*
+
+input:-
+Enter the number for Tables 
+5
+Enter the number of limit in this Tables you need 
+6
+
+output:-
+5 X 1 = 5
+5 X 2 = 10
+5 X 3 = 15
+5 X 4 = 20
+5 X 5 = 25
+5 X 6 = 30
+
+*/
