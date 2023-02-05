@@ -2,7 +2,6 @@ package Know_Your_maths;
 import java.util.Scanner;
 public class Tables {
     public static void main(String[] args) {
-
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the number for Tables ");
         int output1=sc.nextInt();
