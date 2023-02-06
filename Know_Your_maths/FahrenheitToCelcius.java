@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class FahrenheitToCelcius {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
+        System.out.println("Enter the temperature in Fahrenhiet ");
         float output=sc.nextFloat();
         conertfartocel(output);
     }
@@ -16,6 +17,7 @@ public class FahrenheitToCelcius {
 
 /*
 input:-
+Enter the temperature in Fahrenhiet 
 132
 
 output:-
