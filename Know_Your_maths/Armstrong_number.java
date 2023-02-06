@@ -1,7 +1,5 @@
 package Know_Your_maths;
-
 import java.util.Scanner;
-
 public class Armstrong_number {
     public static void main(String[] args) {
         System.out.println("Enter the value to get the Armstrong number ");
@@ -44,6 +42,5 @@ Enter the value to get the Armstrong number
 output:-
 308
 This is not a armstrong number
-
 
 */
