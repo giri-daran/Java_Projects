@@ -18,6 +18,9 @@ public class AlphabetCone {
 }
 
 /*
+input:-
+6
+
 output
 A
 A B
