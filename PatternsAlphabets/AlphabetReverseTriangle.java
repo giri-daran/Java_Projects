@@ -19,7 +19,10 @@ public class AlphabetReverseTriangle {
 }
 
 /*
-output
+input:-
+5
+
+output:-
 ABCDE
 ABCD
 ABC
