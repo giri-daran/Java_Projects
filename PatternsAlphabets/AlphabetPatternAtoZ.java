@@ -19,6 +19,8 @@ public class AlphabetPatternAtoZ {
         }
     }
 }
+//input:-
+//6
 
 //output
 //        A
