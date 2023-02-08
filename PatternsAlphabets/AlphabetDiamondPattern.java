@@ -25,7 +25,7 @@ public class AlphabetDiamondPattern {
 }
 
 /*
-input
+input:-
 
 5
 
