@@ -21,10 +21,10 @@ public class AphabetConeReverse {
 
 /*
 
-* input
+input:-
 5
 
-* output
+output:-
 E
 E D
 E D C
