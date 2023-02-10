@@ -1,7 +1,5 @@
 package PatternsAlphabets;
-
 import java.util.Scanner;
-
 public class AlphabetCone2 {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
@@ -19,8 +17,11 @@ public class AlphabetCone2 {
     }
 }
 
+//input:-
 
-//output
+//6
+
+//output:-
 //        A
 //        B B
 //        C C C
