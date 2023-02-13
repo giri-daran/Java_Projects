@@ -1,7 +1,5 @@
 package Know_Your_maths;
-
 import java.util.Scanner;
-
 public class FahrenheitToCelcius {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
