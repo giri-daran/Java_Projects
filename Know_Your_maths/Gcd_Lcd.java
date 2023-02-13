@@ -1,6 +1,5 @@
 package Know_Your_maths;
 import java.util.Scanner;
-
 public class Gcd_Lcd {
     public static void main(String[] args) {
         System.out.println("Type the number to get the GCD and LCD - ");
