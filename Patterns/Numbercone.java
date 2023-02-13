@@ -20,7 +20,6 @@ public class Numbercone {
             for(int k=1;k<=2*(n-i);k++){
                 System.out.print(" ");
             }
-
             for(int l=i;l>=1;l--){
                 System.out.print(l);
             }
