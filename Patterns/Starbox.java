@@ -18,3 +18,17 @@ public class Starbox {
         }
     }
 }
+
+
+/*
+input:-
+5
+output:-
+
+*****
+*   *
+*   *
+*   *
+*****
+
+*/
